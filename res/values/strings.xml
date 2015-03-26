@@ -8,5 +8,10 @@
     <string name="label_year">Year:</string>
     <string name="label_director">Director:</string>
     <string name="label_rating">Ratings:</string>
+    <string name="hint_title">title (Required)</string>
+    <string name="hint_year">Year</string>
+    <string name="hint_director">Director</string>
+    <string name="hint_rating">Ratings</string>
+     <string name="button_save_movie">Save</string>
 
 </resources>
